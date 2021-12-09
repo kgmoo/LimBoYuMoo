@@ -10,7 +10,7 @@
 8,GSM258559,0, adenocarcinoma
 9,GSM258560,0, adenocarcinoma
 10,GSM258561,0, adenocarcinoma
-11,GSM258562,1, squamous cell carcinoma
+11,GSM258562,0, squamous cell carcinoma
 12,GSM258563,1, squamous cell carcinoma
 13,GSM258564,0, adenocarcinoma
 14,GSM258565,1, squamous cell carcinoma
@@ -19,7 +19,7 @@
 17,GSM258568,0, adenocarcinoma
 18,GSM258569,0, adenocarcinoma
 19,GSM258570,1, squamous cell carcinoma
-20,GSM258571,1, adenocarcinoma
+20,GSM258571,0, adenocarcinoma
 21,GSM258572,0, adenocarcinoma
 22,GSM258573,0, adenocarcinoma
 23,GSM258574,0, adenocarcinoma
@@ -30,7 +30,7 @@
 28,GSM258579,0, adenocarcinoma
 29,GSM258580,0, squamous cell carcinoma
 30,GSM258581,0, adenocarcinoma
-31,GSM258582,1, adenocarcinoma
+31,GSM258582,0, adenocarcinoma
 32,GSM258583,1, squamous cell carcinoma
 33,GSM258584,0, adenocarcinoma
 34,GSM258585,1, squamous cell carcinoma
@@ -52,8 +52,8 @@
 50,GSM258601,0, adenocarcinoma
 51,GSM258602,0, adenocarcinoma
 52,GSM258603,1, squamous cell carcinoma
-53,GSM258604,1, adenocarcinoma
-54,GSM258605,1, adenocarcinoma
+53,GSM258604,0, adenocarcinoma
+54,GSM258605,0, adenocarcinoma
 55,GSM258606,0, adenocarcinoma
 56,GSM258607,0, adenocarcinoma
 57,GSM258608,0, adenocarcinoma
